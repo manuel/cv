@@ -17,6 +17,8 @@
 
 ## Overview
 
+I have been programming for almost 30 years.
+
 For the past years I have been working remotely in
 senior software engineering roles in ad- and fintech,
 spending most of my time on Linux- and JVM-based
@@ -28,10 +30,10 @@ programming languages, operating systems, and blockchain systems.
 ### Interests
 
 * Programming languages (Lisp, dependently typed languages)
-* Operating systems (Plan 9, BeOS, Fuchsia) 
+* Operating systems (Plan 9, BeOS, Newton OS, Fuchsia) 
 * Blockchain and tokenization (Urbit, Chia, Ethereum)
+* Hypermedia systems (Xanadu)
 * User interfaces
-* Hypermedia systems
 
 ## Experience
 
@@ -124,6 +126,7 @@ Sanalogic, BOEKWE, and Tiscover.
 * IP, TCP, UDP, OAuth, public-key cryptography
 
 ### APIs and Frameworks
+
 * Hadoop (HDFS, MapReduce, Hive, Oozie, Flume, Hue)
 * Amazon AWS (S3, SQS, RDS)
 * J2SE, Google App Engine, Google Web Toolkit, Swing
@@ -132,6 +135,7 @@ Sanalogic, BOEKWE, and Tiscover.
 * Node.js, NPM, Deno
 
 ### Operating Systems
+
 * GNU/Linux (Void, Debian, CentOS, Ubuntu), macOS
 
 ### Tools

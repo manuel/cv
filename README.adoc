@@ -29,10 +29,10 @@ programming languages, operating systems, and blockchain systems.
 
 ### Interests
 
-* Programming languages (Lisp, dependently typed languages)
-* Operating systems (Plan 9, BeOS, Newton OS, Fuchsia, Genode) 
-* Blockchain and tokenization (Urbit, Chia, Ethereum)
-* Hypermedia systems (Xanadu)
+* Programming languages
+* Operating systems
+* Blockchain and tokenization
+* Hypermedia systems
 * User interfaces
 
 ## Experience

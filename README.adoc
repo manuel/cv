@@ -155,11 +155,11 @@ https://github.com/lispx/lispx
 
 As of 2022, this is my current hobby project.
 
-### Ell (C): Executable and Linkable Lisp
+### Ell (GNU C): Executable and Linkable Lisp
 
 https://github.com/manuel/ell
 
-A fun hack to implement a Lisp that compiles to C by calling out `gcc`
+A fun hack to implement a Lisp that compiles to C by calling out to `gcc`
 and then `dlopen`ing the produced binary in the running process.
 
 ### Buckybase (Python): Hypermicrodatabase

@@ -17,22 +17,21 @@
 
 ## Overview
 
-I have been programming since 1995.
-
 For the past years I have been working remotely in
 senior software engineering roles in ad- and fintech,
 spending most of my time on Linux- and JVM-based
 backend systems.
 
-Privately I am studying design and implementation of programming languages and blockchain systems.
+Privately I am studying design and implementation of
+programming languages, operating systems, and blockchain systems.
 
 ### Interests
 
-* Programming languages
-* Operating systems
-* Blockchain and tokenization
+* Programming languages (Lisp, dependently typed languages)
+* Operating systems (Plan 9, BeOS, Fuchsia) 
+* Blockchain and tokenization (Urbit, Chia, Ethereum)
 * User interfaces
-* Xanalogical media
+* Hypermedia systems
 
 ## Experience
 

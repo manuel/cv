@@ -72,3 +72,38 @@ Avro records to TSV for loading into Netezza.
 
 Developed link:https://github.com/manuel/node-avro[node-avro] in C++, a prototype implementation of Avro support for
 Node.js.
+
+### 2011-09 -- 2012-07 Computer science teacher at link:https://bg-sillgasse.tsn.at/[Bundesgymnasium und Bundesrealgymnasium Sillgasse]
+
+Tried my hand at teaching kids how to code using browser-based JavaScript
+game frameworks and the GameMaker tool.
+
+### 2008-02 -- 2009-01 Consultant at link:https://www.mpreis.at/[MPreis Warenvertriebs GmbH], an Austrian chain of
+supermarkets
+
+Created Java programs for the visualization of each supermarket's stock
+interfacing with data coming from an internal Oracle database.
+
+Advisor for project creating home delivery system. 
+
+### 2005-03 -- 2006-05 Lead Software Architect at System One (now link:https://www.semanticlabs.at/[Semantic Labs])
+
+Planned and implemented hypermedia content management systems based on
+MySQL and Java Content Repository.
+
+Implemented a service-oriented API for communication between database
+backend and web frontend.
+
+Integrated text classifcation tools (GATE) into the company's semantic wiki. 
+
+## 2001-03 -- 2002-09 Bioinformatician at the link:https://www.tkfi.at/[Tyrolean Cancer Research Institute]
+
+Created Java applications for visualizing results of microarray
+experiments.
+
+Transformed text-based genomics databases with Ruby and Unix tools.
+
+SQL database design for effciently querying genomics data.
+
+Created content management system for institute website.
+

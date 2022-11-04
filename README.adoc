@@ -2,11 +2,9 @@
 
 ## Address
 
-Goethestrasse 15
-
-6020 Innsbruck
-
-Austria
+ Goethestrasse 15
+ 6020 Innsbruck
+ Austria
 
 ## Contact
 
@@ -172,13 +170,5 @@ https://github.com/manuel/buckybase-py
 http://buckybase.blogspot.com/2008/06/introducing-buckybase.html
 
 An early attempt to create a hyperlinked personal database on Google AppEngine.
-
-## Programming language humor
-
-* link:https://this-plt-life.tumblr.com/[This PLT Life]
-
-* link:https://twitter.com/plt_borat[PLT Borat]
-
-* link:https://twitter.com/plt_zizek[PLT Žižek]
 
 ■

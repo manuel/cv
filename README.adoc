@@ -1,0 +1,74 @@
+# Manuel Simoni
+
+## Address
+
+Goethestrasse 15
+
+6020 Innsbruck
+
+Austria
+
+## Contact
+
+* Email: msimoni@gmail.com
+* Tel: +436643465158
+* Skype: manuelsimoni
+* Twitter: https://twitter.com/msimoni
+* Github: https://github.com/manuel
+* Blog: https://axisofeval.blogspot.com
+
+## Overview
+
+I have been obsessively programming since 1995.
+
+For the past years I have been working remotely in
+senior software engineering roles in ad- and fintech,
+spending most of my time on Linux- and JVM-based
+backend systems.
+
+Interests:
+
+* Programming languages
+* Operating systems
+* Blockchain and tokenization
+* User interfaces
+* Xanalogical media
+
+## Experience
+
+### 2016-07 -- 2021-06 Consultant (remote) at link:https://demyst.com[Demyst Data Ltd.]
+
+Designed and implemented Beluga, a Java-based queryable storage server for
+customer-supplied data. Beluga uses Postgres support for JSON and GIN indexes
+to allow querying by any combination of columns without having to specify schemas upfront. Beluga
+loads data files from Amazon S3 and learns about updates from the queue service SQS.
+
+Designed and implemented Guppy, a Java application for accessing relational
+data on customer premises from Demyst’s centralised service. A Guppy
+adapter is installed on a client system and is connected to the central Guppy
+service via reverse HTTP for NAT traversal. The adapter talks to a local
+RDBMS via JDBC. Tables thusly connected can be queried with the same
+HTTP API as Beluga tables.
+
+Extended and maintained the company's Python toolkit for accessing APIs and data sources
+from Jupyter notebooks.
+
+### 2012-08 -- 2016-02 Consultant (remote) at link:https://www.crunchbase.com/organization/collectivemedia[Collective, Inc.]
+
+Designed and led implementation (with two team members) of the link:https://github.com/manuel/celos[Celos] batch
+scheduling system for Hadoop. As of 2016, Celos was running all of
+Collective's Hadoop processing (more than 300 data processing workflows
+across dozens of projects).
+
+* Oversaw the roll-out of Celos to the different data engineering teams and
+the porting of legacy workflows to Celos.
+* Created continuous deployment tools connected to GitHub/Jenkins to
+automate workflow deployment.
+* Designed Ansible and runit-based production and staging deployment tooling
+for Celos itself.
+
+Developed MapReduce processing programs in Java that transformed Flume
+Avro records to TSV for loading into Netezza.
+
+Developed link:https://github.com/manuel/node-avro[node-avro] in C++, a prototype implementation of Avro support for
+Node.js.

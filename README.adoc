@@ -69,7 +69,7 @@ automate workflow deployment.
 for Celos itself.
 
 Developed MapReduce processing programs in Java that transformed Flume
-Avro records to TSV for loading into Netezza.
+Avro for loading into Netezza.
 
 Developed link:https://github.com/manuel/node-avro[node-avro] in C++,
 a prototype implementation of Avro support for Node.js.
@@ -94,7 +94,7 @@ MySQL and Java Content Repository.
 Implemented a service-oriented API for communication between database
 backend and web frontend.
 
-Integrated text classifcation tools (GATE) into the company's semantic wiki. 
+Integrated text classification tools (GATE) into the company's semantic wiki. 
 
 ### 2001-03 -- 2002-09 Bioinformatician at the link:https://www.tkfi.at/[Tyrolean Cancer Research Institute]
 

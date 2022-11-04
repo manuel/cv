@@ -96,7 +96,7 @@ backend and web frontend.
 
 Integrated text classifcation tools (GATE) into the company's semantic wiki. 
 
-## 2001-03 -- 2002-09 Bioinformatician at the link:https://www.tkfi.at/[Tyrolean Cancer Research Institute]
+### 2001-03 -- 2002-09 Bioinformatician at the link:https://www.tkfi.at/[Tyrolean Cancer Research Institute]
 
 Created Java applications for visualizing results of microarray
 experiments.
@@ -107,3 +107,65 @@ SQL database design for effciently querying genomics data.
 
 Created content management system for institute website.
 
+### Since 1995 Various consulting projects
+
+Consulting, design, and implementation for web content management
+projects of many Austrian companies and organisations, including Rathgeber,
+Sanalogic, BOEKWE, and Tiscover.
+
+## Tools and Technologies
+
+### Programming Languages
+
+* Java, JavaScript, Common Lisp, Scheme, C, Python, Ruby, OCaml, Haskell, C++, Bash
+
+### Protocols and Formats
+
+* HTTP, HTML, CSS, XML, Atom/RSS, RDF, JSON, Protocol Buffers, Avro
+* SQL (MySQL, Postgres, Oracle), Unicode, Security (XSS, CSRF)
+* IP, TCP, UDP, OAuth, public-key cryptography
+
+### APIs and Frameworks
+* Hadoop (HDFS, MapReduce, Hive, Oozie, Flume, Hue)
+* Amazon AWS (S3, SQS, RDS)
+* J2SE, Google App Engine, Google Web Toolkit, Swing
+* J2EE, JSP, Servlets, Jetty, Tomcat
+* POSIX, Sockets, libevent
+* Node.js, NPM, Deno
+
+### Operating Systems
+* GNU/Linux (Void, Debian, CentOS, Ubuntu), macOS
+
+### Tools
+
+* Git, GitHub, Jenkins, Ansible, runit, Kerberos 
+
+## Open Source code
+
+### Celos (Java): Scheduler for Hadoop workflows
+
+https://github.com/manuel/celos
+
+I never got around to promoting this project, but it has a nice architecture and was
+used at a couple of companies successfully, and users liked it ("It's a gamechanger!").
+
+### LispX (JavaScript): Ultralight Lisp for the Web
+
+https://github.com/lispx/lispx
+
+As of 2022, this is my current hobby project.
+
+### Ell (C): Executable and Linkable Lisp
+
+https://github.com/manuel/ell
+
+A fun hack to implement a Lisp that compiles to C by calling out `gcc`
+and then `dlopen`ing the produced binary in the running process.
+
+### Buckybase (Python): Hypermicrodatabase
+
+https://github.com/manuel/buckybase-py
+
+http://buckybase.blogspot.com/2008/06/introducing-buckybase.html
+
+An early attempt to create a hyperlinked personal database on Google AppEngine.

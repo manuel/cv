@@ -140,7 +140,7 @@ Sanalogic, BOEKWE, and Tiscover.
 
 * Git, GitHub, Jenkins, Ansible, runit, Kerberos 
 
-## Open Source code
+## Selected Open Source code
 
 ### Celos (Java): Scheduler for Hadoop workflows
 
@@ -153,14 +153,16 @@ used at a couple of companies successfully, and users liked it ("It's a gamechan
 
 https://github.com/lispx/lispx
 
-As of 2022, this is my current hobby project.
+As of 2022, this is my current hobby project: a tiny Lisp interpreter that solves
+the Web's async problem.
 
-### Ell (GNU C): Executable and Linkable Lisp
+### ELL (GNU C): Executable and Linkable Lisp
 
 https://github.com/manuel/ell
 
-A fun hack to implement a Lisp that compiles to C by calling out to `gcc`
-and then `dlopen`ing the produced binary in the running process.
+A fun hack using some linker tricks and GNU C extensions to implement a Lisp
+that compiles to C by calling out to `gcc`.  Produced binaries are then loaded
+into the running process with `dlopen`.
 
 ### Buckybase (Python): Hypermicrodatabase
 
@@ -169,3 +171,5 @@ https://github.com/manuel/buckybase-py
 http://buckybase.blogspot.com/2008/06/introducing-buckybase.html
 
 An early attempt to create a hyperlinked personal database on Google AppEngine.
+
+■
